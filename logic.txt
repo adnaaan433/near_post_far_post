@@ -1,0 +1,15 @@
+Near Post 1:
+if the shot started inside the left zone, and
+18 < estimated_end_y < 36+(8/3)
+
+Near Post 2:
+if the shot started inside the right zone, and
+44-(8/3) < estimated_end_y < 62
+
+Far Post 1:
+if the shot started inside the left zone, and
+44-(8/3) < estimated_end_y < 62
+
+Far Post 2:
+if the shot started inside the right zone, and
+18 < estimated_end_y < 36+(8/3)

@@ -1,0 +1,8 @@
+pandas
+numpy<2.0.0
+matplotlib
+mplsoccer
+highlight_text
+requests
+Pillow
+streamlit
