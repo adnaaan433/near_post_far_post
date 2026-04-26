@@ -286,7 +286,7 @@ def plot_shot_analysis(df, player_name, season_name, team_name, league_name):
     # Main Title
     # Main Title - Left Aligned
     fig.text(0.13, 1.05, f"{display_name}", fontsize=30, fontweight='bold', ha='left', va='top')
-    fig.text(0.13, 1, f"for {team_name}, in {league_name} {season_name} season | Data: Statsbomb | made by: @adnaaan433\nOpen-Play Shots only (excluding Headers and Blocked Shots)", 
+    fig.text(0.13, 1, f"for {team_name}, in {league_name} {season_name} season | Data: Statsbomb | made by: @adnaaan433\nOpen-Play Shots only (excluding Headers and Blocked Shots) | visit: shot-placement-analysis.streamlit.app", 
              fontsize=15, ha='left', va='top')
     fig.text(0.5, 0.25, "Circle Size represents xG of each shot | Green Circles represents Goals", fontsize=12, ha='center', va='top')
                  
